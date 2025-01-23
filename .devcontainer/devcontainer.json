@@ -1,0 +1,5 @@
+{
+    "name": "Java",
+    "dockerFile": "Dockerfile",
+    "postCreateCommand": "mvn clean install"
+}
